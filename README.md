@@ -2,9 +2,6 @@
 
 **Name:** Adikundliya  
 **Registration No.:** 25BAI10634  
-**Branch:** B.Tech — Artificial Intelligence  
-**Course:** Digital Literacy  
-**Repository:** [Digital-Literacy-Project-25BAI10634](https://github.com/Adikundliya/Digital-Literacy-Project-25BAI10634)
 
 ---
 
@@ -28,9 +25,8 @@ This repository contains all task submissions for the Digital Literacy course, c
 
 ## Links
 
-- 📋 **Digital Literacy Awareness Quiz (Google Form):** *(Link to be added before final submission)*
-- 📄 **Project Report:** `report/Project_Report.pdf`
-
+- 📋 **Digital Literacy Awareness Quiz (Google Form):** *(https://forms.gle/kYWhJmLahzWihtCj8)*
+  
 ---
 
 > **Submitted for academic evaluation. All work is original unless cited.**
