@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-**Name:** Adikundliya  
+**Name:** Aditya kundliya  
 **Registration No.:** 25BAI10634  
 
 ---
