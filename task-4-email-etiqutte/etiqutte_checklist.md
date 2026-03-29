@@ -1,22 +1,21 @@
-# **SOCIAL MEDIA CHECKLIST**
+# **SOCIAL MEDIA CHECKLIST** 📱
 
 
 
-**Do's:**
+**Do's** ✅
 
-* ##### Think before posting
-* ##### Use privacy settings
-* ##### Be respectful
-* ##### Verify information
-* ##### Maintain professionalism 
+* ##### 🧠 Think before posting
+* ##### 🔒 Use privacy settings
+* ##### 🤝 Be respectful
+* ##### 🔍 Verify information
+* ##### 💼 Maintain professionalism
 
 
 
-**Don'ts:**
+**Don'ts** ❌
 
-* ##### Share personal data
-* ##### Spread fake news
-* ##### Use offensive language
-* ##### Click unknown links
-* ##### Overshare
-
+* ##### 🚫 Share personal data
+* ##### 📰 Spread fake news
+* ##### 🤬 Use offensive language
+* ##### ⚠️ Click unknown links
+* ##### 📢 Overshare
